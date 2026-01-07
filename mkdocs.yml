@@ -1,4 +1,7 @@
 site_name: Химия
+nav:
+  - "Лекции" : index.md
+  - "Формулы" : content.md
 theme:
   language: ru
   name: material
